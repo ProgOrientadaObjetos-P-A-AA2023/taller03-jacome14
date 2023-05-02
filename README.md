@@ -3,13 +3,12 @@
 * Para los siguientes ejercicios generar una solución en lenguaje Java. 
 
 * Consideraciones:
-	* Revisar a detalle el proyecto de la carpeta **Ejemplo**
 	* Generar un proyecto de Netbeans por cada problema. Use dos paquetes por cada proyecto.
 	* En la solución en lenguaje Java en la clase Ejecutor debe generar dos objetos de la entidad que se pide en la problemática, según su análisis.
 	* Por cada entidad creada se debe generar un diagrama de clase. No se debe generar diagrama de clase de la entidad Ejecutor.
 	* Por cada objeto creado en los método main; debe presentar los datos que considere necesarios.
 	* Los atributos deberán ser privados en cada clase.
-	* Los datos para crear los objetos **NO** se necesita ingresar por teclado.
+	* Los datos para crear los objetos NO se necesita ingresar por teclado.
 	* Recuerde, según el problema, puede existir método establecer que no requieren argumentos.
 
 
